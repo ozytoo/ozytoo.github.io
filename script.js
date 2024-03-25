@@ -35,7 +35,7 @@ const handleYesClick = () => {
     const randomIndex = Math.floor(Math.random() * dateIdeas.length);
     const selectedDateIdea = dateIdeas[randomIndex];
 
-    alert(`How about this romantic date idea: ${selectedDateIdea}`);
+    alert(`Gelicem kuzum gelicemm merak etme <3`);
   });
 
   yesBtn.replaceWith(letsGoBtn);
